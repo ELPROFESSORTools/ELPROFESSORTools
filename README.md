@@ -2,6 +2,7 @@
 <h3 align="center">A passionate tool creator</h3>
 
 - 📫 How to reach me **https://t.me/EL_PROFESSOR_SY**
+- 🆓 Free Stuff in the channel **https://t.me/El_PRO_Channel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
