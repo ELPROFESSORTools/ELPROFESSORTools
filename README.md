@@ -1,4 +1,8 @@
-<h1 align="center">👾 HELLO AND WELCOME 👾</h1>
+<div align="center">
+  <img src="https://pbs.twimg.com/tweet_video_thumb/EqawIQdXIAEHb6R.jpg" alt="ELPRO" height="250px" width="auto"">
+</div>
+
+<h1 align="center">👾 El plan es muy simple. No hay plan. 👾</h1>
 <h3 align="center">A passionate tool creator</h3>
 
 - 📫 How to reach me **https://t.me/EL_PROFESSOR_SY**
