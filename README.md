@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://pbs.twimg.com/tweet_video_thumb/EqawIQdXIAEHb6R.jpg" alt="ELPRO" height="250px" width="auto"">
+  <img src="https://pbs.twimg.com/tweet_video_thumb/EqawIQdXIAEHb6R.jpg" alt="ELPRO" height="250px" width="auto" style="border-radius: 10px;">
 </div>
 
-<h1 align="center">👾 El plan es muy simple. No hay plan. 👾</h1>
+
+<h1 align="center">  The plan is very simple. There is no plan.  </h1>
 <h3 align="center">A passionate tool creator</h3>
 
 - 📫 How to reach me **https://t.me/EL_PROFESSOR_SY**
